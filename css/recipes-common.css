@@ -19,6 +19,7 @@ body, .container {
 }
 
 .container {
+   margin: 20px 0;
    width: 600px;
    gap: 160px;
 }
@@ -46,4 +47,10 @@ p, li {
 
 ol li, ul li {
     margin: 10px 0 10px 25px;
+}
+
+/* House waffle */
+.little {
+    font-size: 15px;
+    font-weight: 300;
 }
